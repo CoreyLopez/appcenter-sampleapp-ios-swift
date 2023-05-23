@@ -1,3 +1,4 @@
+source 'https://github.com/CocoaPods/Specs.git'
 target 'sampleapp-ios-swift' do
   use_frameworks!
 
